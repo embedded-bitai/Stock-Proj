@@ -1,0 +1,3 @@
+
+class CovidStatusTf(object):
+    ...
