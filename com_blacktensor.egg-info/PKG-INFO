@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: com-blacktensor
+Version: 1.0
+Summary: Python Distribution Utilities
+Home-page: https://www.python.org/sigs/distutils-sig/
+Author: jelly6489
+Author-email: rlaalsrlzld@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
